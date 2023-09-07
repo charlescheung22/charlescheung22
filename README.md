@@ -1,7 +1,7 @@
 # Hi there 👋
 Hello. I'm Charles, currently @ UofT.
 
-Currently learning Python & Java. Looking to get into Unity later.
+I know Python & Java. Currently learning SQL. Looking to get into Unity less for games and more for AR applications later.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-charlescheung)
