@@ -1,7 +1,5 @@
 # Hi there 👋
-Hello. I'm Charles, currently @ UofT.
-
-I know Python & Java. Currently learning SQL. Looking to get into Unity less for games and more for AR applications later.
+Hello. I'm Charles Cheung, 2nd @ UofT in the Computer Science Specialist Program. I am fluent in Python and some of its machine learning modules, Java, and some Kotlin. I'm looking to get into more machine learning and quantum computing.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-charlescheung)
